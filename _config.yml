@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            E-terapija
 tagline:          'BomeBome'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              http://teckocko.github.io/e-terapija/
+baseurl:          http://teckocko.github.io/e-terapija/
 
 author:
   name:           'Mark Otto'
